@@ -1,0 +1,2 @@
+# Singleton-Example
+Одинак
